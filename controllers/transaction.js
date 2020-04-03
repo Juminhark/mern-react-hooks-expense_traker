@@ -1,7 +1,7 @@
 const Transaction = require('../modules/Transaction');
 
 // @desc    Get all transacions
-// @route   GET /api/v1/transactions
+// @route   GET /api/v1/transaction
 // @access  Public
 exports.getTransactions = async (req, res, next) => {
   try {
@@ -20,10 +20,10 @@ exports.getTransactions = async (req, res, next) => {
   }
 }
 
-// @desc    Add all transacions
-// @route   POST /api/v1/transactions
+// @desc    Add transacion
+// @route   POST /api/v1/transaction
 // @access  Public
-exports.addTransactions = async (req, res, next) => {
+exports.addTransaction = async (req, res, next) => {
   try {
     const { text, amount } = req.body;
 
@@ -50,10 +50,10 @@ exports.addTransactions = async (req, res, next) => {
   }
 }
 
-// @desc    Delete transacions
-// @route   Delete /api/v1/transactions/:id
+// @desc    Delete transacion
+// @route   Delete /api/v1/transaction/:id
 // @access  Public
-exports.deleteTransactions = async (req, res, next) => {
+exports.deleteTransaction = async (req, res, next) => {
   try {
     const transaction = await Transaction.findById(req.params.id);
 

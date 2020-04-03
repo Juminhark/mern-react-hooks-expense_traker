@@ -41,21 +41,19 @@ npm i -D nodemon concurrently
 
 ## 실행
 
-* node server
 ```sh
+# node server
 npm start
-```
-* nodemon server
-```sh
+
+# nodemon server
 npm run server
-```
-* client start
-```sh
+
+# client start
+# before / cd client / npm run build
 npm client
-```
-* server, cilent concurrently start
-```sh
-npm dev
+
+# server, cilent concurrently start
+npm run dev
 ```
 
 
