@@ -1,5 +1,5 @@
 {
-  "name": "expense-traker-mern-react",
+  "name": "mern-react-hooks-expense_traker",
   "version": "1.0.0",
   "description": "Backend for expense traker",
   "main": "server.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Juminhark/expense-traker-react.git"
+    "url": "git+https://github.com/Juminhark/mern-react-hooks-expense_traker.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Juminhark/expense-traker-react/issues"
+    "url": "https://github.com/Juminhark/mern-react-hooks-expense_traker/issues"
   },
-  "homepage": "https://github.com/Juminhark/expense-traker-react#readme",
+  "homepage": "https://github.com/Juminhark/mern-react-hooks-expense_traker#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "dotenv": "^8.2.0",
