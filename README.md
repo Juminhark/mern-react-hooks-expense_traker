@@ -1,6 +1,6 @@
-# expense-traker-mern-react
+# mern-react-expense_traker
 
-[Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyAs) 
+[`Traversy Media`](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyAs) 
 
 [Build an Expense Tracker | React Hooks & Context API](https://www.youtube.com/watch?v=XuFDcZABiDQ&t=382s) 
 
