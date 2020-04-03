@@ -1,11 +1,14 @@
 # mern-react-hooks-expense_traker
-react 대신 react-hooks 사용
+
 * **[`MERN tutorial`](https://github.com/Juminhark/mern-exercise_traker)**
 * **[`react-hooks doc`](https://ko.reactjs.org/docs/hooks-intro.html)** 
+* [`react-hooks_tutorial`](https://github.com/Juminhark/react-hooks_tutorial)
 
 ## tutorial 
 * [`Traversy Media - server - MERN`](https://www.youtube.com/watch?v=KyWaXA_NvT0&t=245s)
 * [`Traversy Media - client - react hooks`](https://www.youtube.com/watch?v=XuFDcZABiDQ&t=382s) 
+
+## before
 
 ## 개발
 * client
